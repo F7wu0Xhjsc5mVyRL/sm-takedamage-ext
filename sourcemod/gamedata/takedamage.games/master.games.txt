@@ -1,0 +1,7 @@
+"Game Master"
+{
+	"game.cstrike.txt"
+	{
+		"game"		"cstrike"
+	}
+}

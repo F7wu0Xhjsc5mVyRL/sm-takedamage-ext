@@ -1,0 +1,8 @@
+[submodule "deps/sourcemod"]
+	path = deps/sourcemod
+	url = https://github.com/alliedmodders/sourcemod
+	branch = 1.6-dev
+[submodule "deps/hl2sdk-episode1"]
+	path = deps/hl2sdk-episode1
+	url = https://github.com/alliedmodders/hl2sdk
+	branch = episode1

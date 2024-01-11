@@ -1,0 +1,14 @@
+"Games"
+{
+    "#default"
+    {
+        "Offsets"
+		{
+            "OnTakeDamage"
+            {
+                "windows"	"60"
+                "linux"		"61"
+            }
+        }
+    }
+}
